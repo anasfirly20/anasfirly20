@@ -9,7 +9,7 @@
 ![React](https://img.shields.io/badge/REACT-000?style=flat-square&logo=React)
 
 
-### Follow me on 
+### Contacts
 <a href="https://www.t.me/anasfirly20" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-000?style=flat-square&logo=Telegram"></a>
 <a href="https://linkedin.com/in/anasfirly20" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=Linkedin"></a>
 
