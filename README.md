@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi There! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am Frontend developer</h3>
+<h3 align="center">I am a Frontend developer</h3>
 
 
 ### Languages and Tools
@@ -10,8 +10,9 @@
 
 
 ### Follow me on 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-000?style=flat-square&logo=Telegram)](https://www.t.me/anasfirly20)
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=Linkedin)](https://linkedin.com/in/anasfirly20)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-000?style=flat-square&logo=Telegram)](https://www.t.me/anasfirly20){:target="_blank"}
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=Linkedin)](https://linkedin.com/in/anasfirly20){:target="_blank"}
+
 
 [![wakatime](https://wakatime.com/badge/user/518d96d0-d4dc-4d81-ae60-79dbbdfe08a5.svg)](https://wakatime.com/@518d96d0-d4dc-4d81-ae60-79dbbdfe08a5)
 
