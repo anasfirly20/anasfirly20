@@ -7,6 +7,7 @@
 ![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000?style=flat-square&logo=JavaScript)
 ![React](https://img.shields.io/badge/REACT-000?style=flat-square&logo=React)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 ### Contacts
