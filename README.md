@@ -13,7 +13,7 @@
 
 ### Contacts
 <a href="https://www.t.me/anasfirly20" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-000?style=flat-square&logo=Telegram"></a>
-<a href="https://linkedin.com/in/anasfirly20" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=Linkedin"></a>
+<a href="https://linkedin.com/in/anasfirly20" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=LinkedIn"></a>
 
 
 [![wakatime](https://wakatime.com/badge/user/518d96d0-d4dc-4d81-ae60-79dbbdfe08a5.svg)](https://wakatime.com/@518d96d0-d4dc-4d81-ae60-79dbbdfe08a5)
