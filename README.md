@@ -1,23 +1,76 @@
-### <h1 align="center">Hi There! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a Fullstack Engineer</h3>
+# Hi, I'm Anas 👋
+
+Fullstack Developer with **3+ years of commercial experience** building web applications using React, Next.js, TypeScript, and NestJS.
+
+I have worked on educational platforms, Telegram Mini Apps, Web3 products, and enterprise systems used by thousands of users.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- Remix.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- React Query
+- Zustand
+
+### Backend
+- NestJS
+- Node.js
+- Prisma
+- PostgreSQL
+- MySQL
+
+---
+
+## 💼 Commercial Projects
+
+### Open Academy
+
+Educational platform for crypto and Web3 learning, available both as a web application and a Telegram Mini App.
+
+**Web Platform:**  
+🔗 https://academy.crypton.xyz
+
+**Telegram Mini App:**  
+🔗 https://t.me/nutsfarm_bot/learn
+
+### Crypton Tools
+Web3 tools and utilities platform.
+
+🔗 https://tools.crypton.xyz
+
+---
+
+## 🛠 What I Build
+
+- Modern web applications
+- Fullstack applications
+- Telegram Mini Apps
+- Admin dashboards
+- REST APIs
+- Educational platforms
+- Web3 products
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/anasfirly20
+- GitHub: https://github.com/anasfirly20
+- Telegram: @anasfirly20
 
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000?style=flat-square&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000?style=flat-square&logo=TypeScript)
+---
 
-### Frontend Technologies
-![React](https://img.shields.io/badge/REACT-000?style=flat-square&logo=React)
-![Next JS](https://img.shields.io/badge/NEXTJS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Remix](https://img.shields.io/badge/REMIX-000?style=flat-square&logo=remix&logoColor=white)
-![React Native](https://img.shields.io/badge/REACT_NATIVE-000?style=flat-square&logo=react)
-
-### Backend Technologies
-![NestJS](https://img.shields.io/badge/NESTJS-000?style=flat-square&logo=nestjs&logoColor=E0234E)
-
-### Others
-![Tailwind](https://img.shields.io/badge/TAILWIND-000?style=flat-square&logo=tailwindcss)
-
-### Contacts
-<a href="https://www.t.me/anasfirly20" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-000?style=flat-square&logo=Telegram"></a>
-<a href="https://linkedin.com/in/anasfirly20" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=LinkedIn"></a>
+> Open to Frontend, Fullstack, and Backend opportunities.
