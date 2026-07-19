@@ -1,6 +1,6 @@
 # Hi, I'm Anas 👋
 
-Fullstack Developer with **3+ years of commercial experience** building web applications using React, Next.js, TypeScript, and NestJS.
+Fullstack Developer with **3+ years of commercial experience** building modern web applications.
 
 I have worked on educational platforms, Telegram Mini Apps, Web3 products, and enterprise systems used by thousands of users.
 
