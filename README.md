@@ -1,8 +1,10 @@
 # Hi, I'm Anas 👋
 
-Fullstack Developer with **3+ years of commercial experience** building modern web applications.
+Frontend-focused Fullstack Developer building modern web applications with React, Next.js, and TypeScript.
 
-I have worked on educational platforms, Telegram Mini Apps, Web3 products, and enterprise systems used by thousands of users.
+I enjoy creating clean and maintainable interfaces, improving application performance, and working on products from idea to production.
+
+I have experience with frontend architecture, backend development, and building scalable solutions for different types of web platforms.
 
 ---
 
@@ -12,29 +14,44 @@ I have worked on educational platforms, Telegram Mini Apps, Web3 products, and e
 
 * React
 * Next.js
-* Remix.js
 * TypeScript
+* Remix.js
+* React Query / TanStack Query
+* Redux Toolkit
+* Zustand
+* Tailwind CSS
+* Radix UI
 
 ### Backend
 
 * NestJS
+* Node.js
 * Prisma
 * PostgreSQL
 * MySQL
 
-### 🌱 Currently Learning
+### Architecture & Tools
 
-* Go (Golang)
+* Microfrontends
+* Module Federation
+* Feature-Sliced Design (FSD)
+* REST API
+* WebSocket
+* SSR / SSG / ISR
+* CI/CD workflows
+* Jest
+* React Testing Library
 
 ---
 
 ## 🛠 What I Build
 
 * Web applications
+* B2B, B2C, and B2E platforms
 * Telegram Mini Apps
+* Fullstack applications
 
 ---
-
 
 ## 📫 Contact
 
