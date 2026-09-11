@@ -55,6 +55,4 @@ I have experience with frontend architecture, backend development, and building 
 
 ## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/anasfirly20
-* GitHub: https://github.com/anasfirly20
 * Telegram: @anasfirly20
