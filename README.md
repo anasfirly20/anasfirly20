@@ -48,11 +48,4 @@ I have experience with frontend architecture, backend development, and building 
 
 * Web applications
 * B2B, B2C, and B2E platforms
-* Telegram Mini Apps
 * Fullstack applications
-
----
-
-## 📫 Contact
-
-* Telegram: @anasfirly20
